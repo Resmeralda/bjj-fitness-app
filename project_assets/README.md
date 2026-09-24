@@ -5,9 +5,16 @@ This folder contains project documentation, reports, and design assets for the B
 ## Contents
 
 ### Design and Requirements
+
 [Design-and-Requirements.md](Design-and-Requirements.md)
 
 Contains the planned application architecture, technology stack, and functional requirements.
+
+### UI Mockups
+
+[UI Mockups](mockups/)
+
+Contains preliminary interface designs for the application's main screens, including the Home Dashboard, Training, Techniques, Nutrition, and Recovery sections. These mockups represent the current design direction and may change throughout development.
 
 ### Sprint Reports
 
@@ -23,5 +30,4 @@ Additional documentation may be added as the project develops, including:
 
 - Architecture diagrams
 - Database design documentation
-- UI designs and mockups
 - Additional sprint reports
